@@ -8,7 +8,8 @@
 
 ## Download Projekt
 
-1. 
+1. Visual Code öffnen und auf ein gewünschtes Verzeichnis gehen
+2. Im Terminal folgendes ausführen `git clone https://github.com/ZockerPlay/Angular_StarterProjekt.git`
 
 ## Installation
 
