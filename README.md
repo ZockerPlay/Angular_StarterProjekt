@@ -4,6 +4,7 @@
 
 - Visual Code `https://code.visualstudio.com`
 - Node Js `https://nodejs.org/en/`
+- Git `https://git-scm.com/downloads`
 
 ## Download Projekt
 
