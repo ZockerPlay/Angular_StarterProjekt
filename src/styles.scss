@@ -1,1 +1,14 @@
-/* You can add global styles to this file, and also import other style files */
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.menuBar{
+    width: 100vw;
+    height: 50px;
+    background: lightblue;
+    font-size: 22px;
+    font-weight: bold;
+    
+}
